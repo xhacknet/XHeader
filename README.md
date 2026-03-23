@@ -74,7 +74,7 @@ chmod +x Banner.sh
 - **Developer:** XHack Net  
 - **🎥 YouTube:** [XHack Net Official](https://youtube.com/@xhacknet)  
 - **🌐 Website:** [xhacknet.blogspot.com](https://xhacknet.blogspot.com)  
-- **✉️ Telegram:** [XHack Net](https://t.me/XHackNet
+- **✉️ Telegram:** [XHack Net](https://t.me/XHackNet)
 
 📜 লাইসেন্স (License)
 
