@@ -20,21 +20,28 @@
 apt update && apt upgrade -y && pkg install git -y && git clone https://github.com/xhacknet/XHeader && cd XHeader && chmod +x Banner.sh && ./Banner.sh 
 ```
 
-২. আলাদা আলাদা কমান্ড (Step by Step)
+### ২. আলাদা আলাদা কমান্ড (Step by Step)
 
 যদি উপরের কমান্ডে সমস্যা হয়, তবে নিচের ধাপগুলো অনুসরণ করুন:
 ```bash
-code
-Bash
-download
-content_copy
-expand_less
 apt update && apt upgrade -y
+```
+```bash
 pkg install git -y
+```
+```bash
 git clone https://github.com/xhacknet/XHeader
+```
+```bash
 cd XHeader
+```
+```bash
 chmod +x Banner.sh
+```
+```bash
 ./Banner.sh
+```
+
 🔐 লগইন পাসওয়ার্ড (Default Password)
 
 টুলটি চালু করার পর আপনার কাছে পাসওয়ার্ড চাওয়া হবে:
