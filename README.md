@@ -63,11 +63,11 @@ chmod +x Banner.sh
 
 📦 Auto-Dependency: প্রয়োজনীয় সব প্যাকেজ অটোমেটিক ইনস্টল হবে।
 
-📺 ভিডিও টিউটোরিয়াল (Video Tutorial)
+## 📺 ভিডিও টিউটোরিয়াল (Video Tutorial)
 
-কিভাবে টুলটি সেটআপ করবেন তার প্রাকটিক্যাল ভিডিও দেখতে নিচের লিঙ্কে ক্লিক করুন:
+কিভাবে টুলটি সেটআপ করবেন তার প্র্যাকটিক্যাল ভিডিও দেখতে নিচের লিঙ্কে ক্লিক করুন:
 
-![alt text](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)
+[![XHeader Setup Tutorial](https://img.youtube.com/vi/Dva1wbnhpRI/0.jpg)](https://youtu.be/Dva1wbnhpRI?si=8A5JF04CVeL7W2W6)
 
 ## 👨‍💻 ডেভেলপার তথ্য (Developer Info)
 
