@@ -17,11 +17,13 @@
 ### ১. এক লাইনে ইনস্টল করার কমান্ড (Single Line Command)
 দ্রুত ইনস্টল করতে নিচের পুরো কমান্ডটি কপি করে Termux-এ পেস্ট করুন:
 ```bash
-apt update && apt upgrade -y && pkg install git -y && git clone https://github.com/xhacknet/XHeader && cd XHeader && chmod +x Banner.sh && ./Banner.sh
+apt update && apt upgrade -y && pkg install git -y && git clone https://github.com/xhacknet/XHeader && cd XHeader && chmod +x Banner.sh && ./Banner.sh 
+```
+
 ২. আলাদা আলাদা কমান্ড (Step by Step)
 
 যদি উপরের কমান্ডে সমস্যা হয়, তবে নিচের ধাপগুলো অনুসরণ করুন:
-
+```bash
 code
 Bash
 download
