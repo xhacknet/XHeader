@@ -50,11 +50,10 @@ chmod +x Banner.sh
 - 📢 **টেলিগ্রাম চ্যানেল (Update):** [XHack Net](https://t.me/XHackNet) – সব আপডেট এখানে পাবেন  
 - 👥 **টেলিগ্রাম গ্রুপ (Support):** [XHack Net Group](https://t.me/XHackNet_Group) – যেকোনো সমস্যার সমাধানে এখানে প্রশ্ন করুন
 
-✨ বিশেষ বৈশিষ্ট্যসমূহ (Features)
+## ✨ বিশেষ বৈশিষ্ট্যসমূহ (Features)
 
 🎭 Beautiful Welcome UI: স্ক্রিপ্ট শুরুতেই একটি স্টাইলিশ অ্যানিমেশন দেখাবে।
 
-🔐 Password Protected: আপনার টার্মিনালকে সুরক্ষিত রাখতে পাসওয়ার্ড সিস্টেম।
 
 🎨 Zsh & Oh My Zsh: স্বয়ংক্রিয়ভাবে Oh My Zsh এবং প্লাগইন সেটআপ।
 
@@ -70,13 +69,12 @@ chmod +x Banner.sh
 
 ![alt text](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)
 
-👨‍💻 ডেভেলপার তথ্য (Developer Info)
+## 👨‍💻 ডেভেলপার তথ্য (Developer Info)
 
-XHack Net
-
-🎥 YouTube: XHack Net Official
-
-🌐 Website: xhacknet.blogspot.com
+- **Developer:** XHack Net  
+- **🎥 YouTube:** [XHack Net Official](https://youtube.com/@xhacknet)  
+- **🌐 Website:** [xhacknet.blogspot.com](https://xhacknet.blogspot.com)  
+- **✉️ Telegram:** [XHack Net](https://t.me/XHackNet
 
 📜 লাইসেন্স (License)
 
