@@ -8,7 +8,13 @@
 
 **XHeader** হলো Termux-এর জন্য একটি প্রিমিয়াম ব্যানার মেকার টুল। এটি আপনার সাধারণ Termux টার্মিনালকে একটি স্টাইলিশ এবং প্রফেশনাল লুক দেয়। এতে রয়েছে চমৎকার অ্যানিমেটেড ওয়েলকাম UI, পাসওয়ার্ড প্রোটেকশন এবং ওহ-মাই-জেড-এসএইচ (Oh My Zsh) কনফিগারেশন।
 
----
+
+## 📺 ভিডিও টিউটোরিয়াল (Video Tutorial)
+
+কিভাবে টুলটি সেটআপ করবেন তার প্র্যাকটিক্যাল ভিডিও দেখতে নিচের লিঙ্কে ক্লিক করুন:
+
+[![XHeader Setup Tutorial](https://img.youtube.com/vi/Dva1wbnhpRI/0.jpg)](https://youtu.be/Dva1wbnhpRI?si=8A5JF04CVeL7W2W6)
+
 
 ## 📥 ইনস্টলেশন কমান্ড (Installation Commands)
 
@@ -63,18 +69,14 @@ chmod +x Banner.sh
 
 📦 Auto-Dependency: প্রয়োজনীয় সব প্যাকেজ অটোমেটিক ইনস্টল হবে।
 
-## 📺 ভিডিও টিউটোরিয়াল (Video Tutorial)
 
-কিভাবে টুলটি সেটআপ করবেন তার প্র্যাকটিক্যাল ভিডিও দেখতে নিচের লিঙ্কে ক্লিক করুন:
-
-[![XHeader Setup Tutorial](https://img.youtube.com/vi/Dva1wbnhpRI/0.jpg)](https://youtu.be/Dva1wbnhpRI?si=8A5JF04CVeL7W2W6)
 
 ## 👨‍💻 ডেভেলপার তথ্য (Developer Info)
 
 - **Developer:** XHack Net  
 - **🎥 YouTube:** [XHack Net Official](https://youtube.com/@xhacknet)  
 - **🌐 Website:** [xhacknet.blogspot.com](https://xhacknet.blogspot.com)  
-- **✉️ Telegram:** [XHack Net](https://t.me/XHackNet)
+- **✉️ Telegram:** [XHack Net](https://t.me/XHackNet
 
 📜 লাইসেন্স (License)
 
